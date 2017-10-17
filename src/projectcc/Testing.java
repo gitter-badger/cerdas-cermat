@@ -10,5 +10,8 @@ package projectcc;
  * @author ASUS-PC
  */
 public class Testing {
+
+    public Testing() {
+    }
     
 }
